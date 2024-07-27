@@ -1,3 +1,7 @@
+
+<img src="./data/perceptron.png" alt="Alt text" width="800" />
+
+
 # Perceptron-Algorithm-from-snatch
 
 ## Overview
